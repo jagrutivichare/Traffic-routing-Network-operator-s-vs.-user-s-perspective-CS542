@@ -1,4 +1,4 @@
-Steps to run the code using TurboC++ software :
+Steps to run the code using TurboC++ software:
 
 1.Install TurboC++
 2.Go to Projects folder inside TURBOC3 folder where it is installed(Default path : C:\TURBOC3\Projects)
